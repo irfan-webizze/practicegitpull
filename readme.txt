@@ -1,2 +1,1 @@
-Hello world
-practising git 
+Hello world practising git via CLI
